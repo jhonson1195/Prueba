@@ -19,6 +19,8 @@ public class Ubuntu {
         // TODO code application logic here
         System.out.println("Hola ubuntu");
 	System.out.println("Hola ubuntu 222222");
+System.out.println("Hola ubuntu 222222");
+System.out.println("Hola ubuntu 222222");
     }
     
 }
